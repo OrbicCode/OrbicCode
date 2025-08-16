@@ -29,16 +29,16 @@
 
 <br>
 
-🔭 Aspiring Full-Stack Developer falling in love with the daily learning, growing and challenges
+🔭 Aspiring Full-Stack Developer in love with learning, growing and challenges
 <br><br>
-😍 At the moment nothing is beating the rush of constantly getting stuck and solving problems
+😍 At the moment, nothing is beating the rush of constantly getting stuck and solving problems
 <br><br>
 📚 <a href="https://schoolofcode.co.uk/">School of Code</a> was there in the moulding of me as a developer
 <br><br>
-⏳ Currently working on my portfolio and contributing to ReelMagic my School of Code team's final project
-<br><be>
+⏳ Currently working on a data visualisation tool for renewable energy
+<br><br>
 
-<be>
+<br>
 
 <div align="center">
     <table>
